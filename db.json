@@ -1,0 +1,324 @@
+[
+    {
+        "b_id": "90d5c39f-6c6a-4dca-ad0b-6c0f3373d89f",
+        "title": "Josef K",
+        "author": "Franz Kafka",
+        "year": "1927",
+        "in_stock": false
+    },
+    {
+        "b_id": "97aae89c-6a06-4fc7-bd22-f7cc4a75c4b9",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "in_stock": true
+    },
+    {
+        "b_id": "c430bafa-1cfd-437e-808f-d6ef9f4f05ca",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "in_stock": false
+    },
+    {
+        "b_id": "e09c3f86-2c5b-40cf-acf0-38bdcf03c0d9",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "in_stock": true
+    },
+    {
+        "b_id": "e09c3f86-2c5b-40cf-acf0-38bdcf03c0d9",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "in_stock": false
+    },
+    {
+        "b_id": "e09c3f86-2c5b-40cf-acf0-38bdcf03c0d9",
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "in_stock": true
+    },
+    {
+        "b_id": "0d66ed54-77dc-408f-b734-cf624561ede3",
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "in_stock": true
+    },
+    {
+        "b_id": "7417bd52-b13d-40ab-868f-5e59d47600e0",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "in_stock": true
+    },
+    {
+        "b_id": "0f09555e-00c9-493a-9d00-f7d75bca87bb",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "in_stock": false
+    },
+    {
+        "b_id": "02a9d9c7-7a27-473f-946f-a75d18c03684",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "in_stock": true
+    },
+    {
+        "b_id": "02a9d9c7-7a27-473f-946f-a75d18c03684",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "in_stock": false
+    },
+    {
+        "b_id": "02a9d9c7-7a27-473f-946f-a75d18c03684",
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "in_stock": true
+    },
+    {
+        "b_id": "900f56c5-f228-443f-b409-63565eb50dc1",
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "in_stock": true
+    },
+    {
+        "b_id": "dba60c60-6d0b-4425-a223-dd751213930b",
+        "title": "Book 1",
+        "author": "Author 1",
+        "year": "2022",
+        "in_stock": true
+    },
+    {
+        "b_id": "dff95402-7bd8-4a60-bea7-3ebbe5b1cb78",
+        "title": "Book 1",
+        "author": "Author 1",
+        "year": "2022",
+        "in_stock": true
+    },
+    {
+        "b_id": "dff95402-7bd8-4a60-bea7-3ebbe5b1cb78",
+        "title": "Book 2",
+        "author": "Author 2",
+        "year": "2023",
+        "in_stock": true
+    },
+    {
+        "b_id": "297392c9-f1b2-4a9b-93b2-49b269d14062",
+        "title": "Book 1",
+        "author": "Author 1",
+        "year": "2022",
+        "in_stock": true
+    },
+    {
+        "b_id": "297392c9-f1b2-4a9b-93b2-49b269d14062",
+        "title": "Book 2",
+        "author": "Author 2",
+        "year": "2023",
+        "in_stock": true
+    },
+    {
+        "b_id": "297392c9-f1b2-4a9b-93b2-49b269d14062",
+        "title": "Book 3",
+        "author": "Author 1",
+        "year": "2022",
+        "in_stock": true
+    },
+    {
+        "b_id": "67f2c729-35ee-41bf-93c0-99fe1f03a9d9",
+        "title": "Book 1",
+        "author": "Author 1",
+        "year": "2022",
+        "in_stock": true
+    },
+    {
+        "b_id": "4c11f534-4acd-458e-90c6-94cf27349d8d",
+        "title": "Book 1",
+        "author": "Author 1",
+        "year": "2022",
+        "in_stock": true
+    },
+    {
+        "b_id": "4c11f534-4acd-458e-90c6-94cf27349d8d",
+        "title": "Book 2",
+        "author": "Author 2",
+        "year": "2023",
+        "in_stock": true
+    },
+    {
+        "b_id": "4c11f534-4acd-458e-90c6-94cf27349d8d",
+        "title": "Book 3",
+        "author": "Author 1",
+        "year": "2022",
+        "in_stock": true
+    },
+    {
+        "b_id": "4c11f534-4acd-458e-90c6-94cf27349d8d",
+        "title": "Book 4",
+        "author": "Author 4",
+        "year": "2024",
+        "in_stock": true
+    },
+    {
+        "b_id": "431900ea-ba1c-4547-a341-1eeefe974324",
+        "title": "Book 1",
+        "author": "Author 1",
+        "year": "2022",
+        "in_stock": true
+    },
+    {
+        "b_id": "431900ea-ba1c-4547-a341-1eeefe974324",
+        "title": "Book 2",
+        "author": "Author 2",
+        "year": "2023",
+        "in_stock": true
+    },
+    {
+        "b_id": "431900ea-ba1c-4547-a341-1eeefe974324",
+        "title": "Book 3",
+        "author": "Author 1",
+        "year": "2022",
+        "in_stock": true
+    },
+    {
+        "b_id": "00b667c9-caf0-4fee-ba24-56e2e90bddb4",
+        "title": "Book 1",
+        "author": "Author 1",
+        "year": "2022",
+        "in_stock": true
+    },
+    {
+        "b_id": "00b667c9-caf0-4fee-ba24-56e2e90bddb4",
+        "title": "Book 2",
+        "author": "Author 2",
+        "year": "2023",
+        "in_stock": true
+    },
+    {
+        "b_id": "00b667c9-caf0-4fee-ba24-56e2e90bddb4",
+        "title": "Book 3",
+        "author": "Author 1",
+        "year": "2022",
+        "in_stock": true
+    },
+    {
+        "b_id": "b532a024-7de3-466c-97bd-531312dbe5f4",
+        "title": "Book 1",
+        "author": "Author 1",
+        "year": "2022",
+        "in_stock": true
+    },
+    {
+        "b_id": "b532a024-7de3-466c-97bd-531312dbe5f4",
+        "title": "Book 2",
+        "author": "Author 2",
+        "year": "2023",
+        "in_stock": true
+    },
+    {
+        "b_id": "b532a024-7de3-466c-97bd-531312dbe5f4",
+        "title": "Book 3",
+        "author": "Author 1",
+        "year": "2022",
+        "in_stock": true
+    },
+    {
+        "b_id": "52589dad-7693-417e-927f-002807392502",
+        "title": "Book 1",
+        "author": "Author 1",
+        "year": "2022",
+        "in_stock": true
+    },
+    {
+        "b_id": "52589dad-7693-417e-927f-002807392502",
+        "title": "Book 2",
+        "author": "Author 2",
+        "year": "2023",
+        "in_stock": true
+    },
+    {
+        "b_id": "52589dad-7693-417e-927f-002807392502",
+        "title": "Book 3",
+        "author": "Author 1",
+        "year": "2022",
+        "in_stock": true
+    },
+    {
+        "b_id": "52589dad-7693-417e-927f-002807392502",
+        "title": "Book 4",
+        "author": "Author 4",
+        "year": "2024",
+        "in_stock": true
+    },
+    {
+        "b_id": "679202d9-a92e-427e-8b4f-1cfd60ec8425",
+        "title": "Book 1",
+        "author": "Author 1",
+        "year": "2022",
+        "in_stock": true
+    },
+    {
+        "b_id": "679202d9-a92e-427e-8b4f-1cfd60ec8425",
+        "title": "Book 2",
+        "author": "Author 2",
+        "year": "2023",
+        "in_stock": true
+    },
+    {
+        "b_id": "679202d9-a92e-427e-8b4f-1cfd60ec8425",
+        "title": "Book 3",
+        "author": "Author 1",
+        "year": "2022",
+        "in_stock": true
+    },
+    {
+        "b_id": "aa8b4668-5372-4318-bbd4-1ca1779af4c0",
+        "title": "Book 1",
+        "author": "Author 1",
+        "year": "2022",
+        "in_stock": true
+    },
+    {
+        "b_id": "aa8b4668-5372-4318-bbd4-1ca1779af4c0",
+        "title": "Book 2",
+        "author": "Author 2",
+        "year": "2023",
+        "in_stock": true
+    },
+    {
+        "b_id": "aa8b4668-5372-4318-bbd4-1ca1779af4c0",
+        "title": "Book 3",
+        "author": "Author 1",
+        "year": "2022",
+        "in_stock": true
+    },
+    {
+        "b_id": "082d500f-b788-4ebd-9022-7f01eefdfede",
+        "title": "Book 1",
+        "author": "Author 1",
+        "year": "2022",
+        "in_stock": true
+    },
+    {
+        "b_id": "082d500f-b788-4ebd-9022-7f01eefdfede",
+        "title": "Book 2",
+        "author": "Author 2",
+        "year": "2023",
+        "in_stock": true
+    },
+    {
+        "b_id": "082d500f-b788-4ebd-9022-7f01eefdfede",
+        "title": "Book 3",
+        "author": "Author 1",
+        "year": "2022",
+        "in_stock": true
+    }
+]
