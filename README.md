@@ -1,6 +1,7 @@
 # Book Store Application
 
 The Book Store application is a simple command-line interface (CLI) program that allows you to manage a collection of books.
+- App is also Dockerized
 
 ## Features
 
