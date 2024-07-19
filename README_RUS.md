@@ -57,7 +57,7 @@
 
 * MIT license (https://opensource.org/license/mit)
 
-## Целеввые ОС
+## Целевые ОС
 
 - Windows NT 10/11
 - GNU/Linux - Дистрибутивы
