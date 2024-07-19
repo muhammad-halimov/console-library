@@ -50,3 +50,15 @@ The tests cover the basic functionality of the `BookStore` class, including addi
 ## Contributing
 
 If you find any issues or have suggestions for improvement, feel free to open a new issue or submit a pull request.
+
+## License
+
+Licensed under:
+
+* MIT license (https://opensource.org/license/mit)
+
+## Targeted OS
+
+- Windows NT 10/11
+- GNU/Linux - Distributions
+- BSD/Mach - macOS
